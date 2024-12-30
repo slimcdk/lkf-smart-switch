@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name SLIMC_LKF_Project)(type Legacy)(uri ${KIPRJMOD}/../../external/KiCad-libs/SLIMC_LKF_Project.lib)(options "")(descr ""))
+  (lib (name 1u-front-pcb-rescue)(type Legacy)(uri ${KIPRJMOD}/1u-front-pcb-rescue.lib)(options "")(descr ""))
+)
